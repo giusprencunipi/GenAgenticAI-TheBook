@@ -1,0 +1,23 @@
+# Sources are not published here. The LaTeX lives in the book's own repository;
+# this one carries the compiled PDFs. These patterns are the mechanical form of
+# that rule: an absent-minded "git add -A" cannot ship a source.
+*.tex
+*.bib
+*.bst
+*.sty
+*.cls
+
+# LaTeX build intermediates, in case anything is ever compiled in this tree.
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+.DS_Store
