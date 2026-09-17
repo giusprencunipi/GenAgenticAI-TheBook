@@ -35,6 +35,20 @@ something rather than to an empty page.
 Compiled PDFs, and code. The LaTeX sources of the book and of this companion
 are not part of this repository.
 
+## Licence
+
+Everything in this repository — PDFs, text and code — is published under
+**[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International](https://creativecommons.org/licenses/by-nc-nd/4.0/)**
+(CC BY-NC-ND 4.0). The full text is in [LICENSE](LICENSE).
+
+In short: you may download and redistribute the material, whole and unmodified,
+with attribution; you may not use it commercially; and you may not distribute
+modified or adapted versions of it.
+
+For uses this licence does not allow — adapting the teaching material for a
+course, in particular — write to the authors.
+
 ## Reporting an error
 
 Corrections, better implementations and counterexamples are welcome —

@@ -37,6 +37,20 @@ qualcosa e non a una pagina vuota.
 I PDF compilati, e il codice. I sorgenti LaTeX del libro e di questo volume
 compagno non fanno parte di questo repository.
 
+## Licenza
+
+Tutto il materiale di questo repository — PDF, testi e codice — è distribuito
+sotto **[Creative Commons Attribuzione–Non commerciale–Non opere derivate 4.0
+Internazionale](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it)**
+(CC BY-NC-ND 4.0). Il testo integrale è in [LICENSE](LICENSE).
+
+In breve: si può scaricare e ridistribuire il materiale, per intero e
+immutato, citando gli autori; non se ne può fare uso commerciale; non se ne
+possono distribuire versioni modificate o adattate.
+
+Per usi che questa licenza non consente — in particolare l'adattamento del
+materiale didattico per un corso — scrivere agli autori.
+
 ## Segnalare un errore
 
 Correzioni, implementazioni migliori e controesempi sono benvenuti — i
