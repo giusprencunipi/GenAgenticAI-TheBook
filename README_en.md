@@ -13,8 +13,8 @@ something rather than to an empty page.
 
 - **Exercises and solutions** — ten for each of the book's technical chapters,
   from Autoencoders to Agentic AI. They are not printed in the book on purpose:
-  a printed exercise is answered once and read as a worked example ever after,
-  because the solution is a few pages away and the eye has already been there.
+  nothing in its argument depends on them. The book is complete without a single
+  exercise attempted; these are an instrument for whoever wants one.
 
 - **Computations in full** — the arithmetic the book states a result for rather
   than spreading over three pages, such as the exhaustive scan behind the claim

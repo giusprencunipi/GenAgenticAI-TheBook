@@ -14,9 +14,8 @@ qualcosa e non a una pagina vuota.
 
 - **Esercizi e soluzioni** — dieci per ciascuno dei capitoli tecnici del libro,
   dagli autoencoder all'AI agentica. Non sono stampati nel libro di proposito:
-  un esercizio stampato lo si risolve una volta sola e da lì in poi lo si legge
-  come un esempio svolto, perché la soluzione è tre pagine più in là e l'occhio
-  c'è già stato.
+  l'argomento del libro non ha bisogno di loro. Il libro è completo senza che se
+  ne sia tentato uno solo; sono uno strumento per chi lo voglia.
 
 - **I conti per esteso** — l'aritmetica di cui il libro riporta il risultato
   invece di distenderla su tre pagine: per esempio la scansione esaustiva
