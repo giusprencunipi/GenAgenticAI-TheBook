@@ -1,4 +1,4 @@
-# A (not-so-for-dummies) Introduction to Generative and Agentic AI — materiali
+# An Introduction to Algorithms and Architectures for Generative and Agentic AI — materiali
 
 *[English version](README_en.md)*
 

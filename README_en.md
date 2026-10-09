@@ -1,4 +1,4 @@
-# A (not-so-for-dummies) Introduction to Generative and Agentic AI — companion
+# An Introduction to Algorithms and Architectures for Generative and Agentic AI — companion
 
 *[Versione italiana](README_it.md)*
 
