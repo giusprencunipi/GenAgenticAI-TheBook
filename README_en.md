@@ -1,4 +1,4 @@
-# An Introduction to Algorithms and Architectures for Generative and Agentic AI — companion
+# Generative and Agentic AI: Algorithms and Architectures — companion
 
 *[Versione italiana](README_it.md)*
 
