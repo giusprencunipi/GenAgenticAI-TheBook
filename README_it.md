@@ -21,11 +21,12 @@ qualcosa e non a una pagina vuota.
   invece di distenderla su tre pagine: per esempio la scansione esaustiva
   dietro l'affermazione su quanto lontano decada la somiglianza posizionale.
 
-- **Il codice** — le implementazioni dei modelli che il libro deriva, scritte
-  per essere lette accanto al capitolo che le deriva e non per essere
-  efficienti; e gli script delle figure nate da un modello davvero addestrato:
-  la varietà del capitolo 4, il mode collapse del 5, le cifre corrotte del 6.
-  Con il seme fissato, così che un lettore scettico possa rigenerarle.
+- **Il codice** — gli script che producono le figure e i numeri del libro:
+  ogni figura calcolata anziché disegnata, e ogni numero che viene da una
+  misura, indica il file che l'ha prodotto. Tra questi ci sono gli script
+  delle figure nate da un modello davvero addestrato: la varietà del
+  capitolo 4, il mode collapse del 5, le cifre corrotte del 6. Con il seme
+  fissato, così che chi è scettico possa rigenerarle.
 
 - **Correzioni e aggiornamenti.** Il materiale sui modelli linguistici e sugli
   agenti ha la vita più breve, e quello che un libro stampato non può rivedere,

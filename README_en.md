@@ -20,11 +20,12 @@ something rather than to an empty page.
   than spreading over three pages, such as the exhaustive scan behind the claim
   about how far positional similarity decays.
 
-- **Code** — implementations of the models the book derives, written to be read
-  next to the chapter that derives them rather than to be efficient; and the
-  scripts behind the figures that came from a model actually trained: the
-  manifold of Chapter 4, the mode collapse of Chapter 5, the corrupted digits
-  of Chapter 6. Seeded, so that a sceptical reader can regenerate them.
+- **Code** — the scripts behind the book's figures and numbers: every figure
+  that was computed rather than drawn, and every number that came from a
+  measurement, names the file that produced it. Among them are the scripts
+  behind the figures that came from a model actually trained: the manifold of
+  Chapter 4, the mode collapse of Chapter 5, the corrupted digits of
+  Chapter 6. Seeded, so that a sceptical reader can regenerate them.
 
 - **Corrections and updates.** The material on language models and on agents
   has the shorter half-life, and what a printed book cannot revise, a
