@@ -12,7 +12,7 @@ are the output of a network that has actually been trained, so they have to be
 computed. This script does the whole thing from nothing -- it downloads MNIST,
 trains the model, and writes the images -- and takes about three minutes.
 
-    python3 supportFiles-repo/make_mnist_figures.py
+    python3 supportScripts-repo/make_mnist_figures.py
 
 The model is deliberately the one the chapter describes: a 784-512-256 encoder
 with a mean head and a log-variance head, a mirrored decoder with a Bernoulli

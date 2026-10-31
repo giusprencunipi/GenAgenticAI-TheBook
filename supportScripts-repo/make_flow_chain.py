@@ -2,7 +2,7 @@
 """Compute the points plotted in the figure "A chain of invertible
 transformations" of Chapter 4 (fig:flow_chain).
 
-    python3 supportFiles-repo/make_flow_chain.py
+    python3 supportScripts-repo/make_flow_chain.py
 
 300 points are drawn from the two-dimensional standard Gaussian and pushed
 through three hand-written invertible maps. Each map changes one coordinate as

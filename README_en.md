@@ -5,9 +5,8 @@
 This repository is the companion to the book. The book is a single argument,
 read straight through; what a printed page cannot carry lives here.
 
-**Nothing has been published yet.** The repository is being prepared, and this
-note is a placeholder, so that the address printed in the book resolves to
-something rather than to an empty page.
+**The repository is being prepared.** For now it holds the code and the
+supporting figures; the rest will follow when the book is published.
 
 ## What will be here
 
@@ -25,7 +24,12 @@ something rather than to an empty page.
   measurement, names the file that produced it. Among them are the scripts
   behind the figures that came from a model actually trained: the manifold of
   Chapter 4, the mode collapse of Chapter 5, the corrupted digits of
-  Chapter 6. Seeded, so that a sceptical reader can regenerate them.
+  Chapter 6. Seeded, so that a sceptical reader can regenerate them. They are
+  in [`supportScripts-repo/`](supportScripts-repo/).
+
+- **Supporting figures** — figures that go with the book but are not printed
+  in it, such as the 64 first-layer AlexNet filters in colour from Appendix D.
+  They are in [`supportFigures-repo/`](supportFigures-repo/).
 
 - **Corrections and updates.** The material on language models and on agents
   has the shorter half-life, and what a printed book cannot revise, a

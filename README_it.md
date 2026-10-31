@@ -6,9 +6,8 @@ Questo repository accompagna il libro. Il libro è un unico argomento, da
 leggere di seguito; quello che una pagina stampata non può portare con sé sta
 qui.
 
-**Non è ancora stato pubblicato nulla.** Il repository è in preparazione, e
-questa nota è un segnaposto, perché l'indirizzo stampato nel libro porti a
-qualcosa e non a una pagina vuota.
+**Il repository è in preparazione.** Per ora contiene il codice e le figure di
+supporto; il resto arriverà con l'uscita del libro.
 
 ## Che cosa ci sarà
 
@@ -26,7 +25,13 @@ qualcosa e non a una pagina vuota.
   misura, indica il file che l'ha prodotto. Tra questi ci sono gli script
   delle figure nate da un modello davvero addestrato: la varietà del
   capitolo 4, il mode collapse del 5, le cifre corrotte del 6. Con il seme
-  fissato, così che chi è scettico possa rigenerarle.
+  fissato, così che chi è scettico possa rigenerarle. Sono nella cartella
+  [`supportScripts-repo/`](supportScripts-repo/).
+
+- **Le figure di supporto** — figure che accompagnano il libro ma non vi sono
+  stampate, per esempio i 64 filtri del primo layer di AlexNet a colori
+  dell'Appendice D. Sono nella cartella
+  [`supportFigures-repo/`](supportFigures-repo/).
 
 - **Correzioni e aggiornamenti.** Il materiale sui modelli linguistici e sugli
   agenti ha la vita più breve, e quello che un libro stampato non può rivedere,

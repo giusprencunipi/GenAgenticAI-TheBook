@@ -18,10 +18,10 @@ is two trained models as
 well. Both are trained here, matched where the two methods allow, and written
 as the two PNGs the chapter includes.
 
-    python3 supportFiles-repo/make_gan_figures.py            # all three
-    python3 supportFiles-repo/make_gan_figures.py mnist      # fig:gan_vs_vae_samples only
-    python3 supportFiles-repo/make_gan_figures.py ring       # fig:mode_hopping only
-    python3 supportFiles-repo/make_gan_figures.py js         # fig:js_vs_wasserstein only
+    python3 supportScripts-repo/make_gan_figures.py            # all three
+    python3 supportScripts-repo/make_gan_figures.py mnist      # fig:gan_vs_vae_samples only
+    python3 supportScripts-repo/make_gan_figures.py ring       # fig:mode_hopping only
+    python3 supportScripts-repo/make_gan_figures.py js         # fig:js_vs_wasserstein only
 
 The ring model is a deliberately ordinary GAN -- two small leaky-ReLU stacks,
 the non-saturating generator loss of the section "The Minimax Objective: One

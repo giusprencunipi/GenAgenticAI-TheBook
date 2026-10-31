@@ -26,7 +26,7 @@ This script runs all of them and prints the table, so that the numbers in the
 book are measured rather than asserted. If the book and this script disagree,
 the script is right.
 
-    python3 supportFiles-repo/make_ae_pretraining_numbers.py
+    python3 supportScripts-repo/make_ae_pretraining_numbers.py
 
 What is done, stage by stage, in the order the example gives:
 

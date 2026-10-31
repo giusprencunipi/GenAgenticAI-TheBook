@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Recompute the numbers in the analogy example of the Word Embeddings appendix.
 
-    python3 supportFiles-repo/make_analogy_numbers.py
+    python3 supportScripts-repo/make_analogy_numbers.py
 
 The example prints the eight words nearest to v_king - v_man + v_woman, the
 cosine of that vector with v_queen, the cosine between the two supposedly equal

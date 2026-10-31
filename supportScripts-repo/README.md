@@ -1,4 +1,4 @@
-# supportFiles-repo
+# supportScripts-repo
 
 Every figure and every number in the book *Generative and Agentic AI:
 Algorithms and Architectures* that came from a computation rather than from an
@@ -8,7 +8,7 @@ book points at when it says that something can be re-run.
 Run them from the root of this repository, not from inside this folder. Each
 writes its figures either next to the script or in the current directory:
 
-    python3 supportFiles-repo/make_mnist_figures.py
+    python3 supportScripts-repo/make_mnist_figures.py
 
 | Script | Produces | Used by |
 |---|---|---|
@@ -21,7 +21,7 @@ writes its figures either next to the script or in the current directory:
 | `make_gan_figures.py` | `gan_mnist_samples.png`, `gan_mnist_vae_samples.png`, and the mode-collapse coordinates | Chapter 5 |
 | `make_diffusion_figure.py` | `forward_process.png` | Chapter 6 |
 | `make_gaussian_sample_stats.py` | the 10,000-draw column of the table in the example on sampling from the standard Gaussian | Chapter 6 |
-| `make_filter_figure.py` | `conv1_filters.png`, `conv1_filters_colour.png` | Appendix D |
+| `make_filter_figure.py` | `conv1_filters.png`, and `conv1_filters_colour.png` in `supportFigures-repo/` | Appendix D |
 | `make_analogy_numbers.py` | the analogy and subspace figures quoted in the text | Appendix E |
 | `make_tsne_figure.py` | `tsne_seeds.png` and the correlations quoted in the text | Appendix E |
 

@@ -2,7 +2,7 @@
 """Compute the codes plotted in the figure "The same latent space under three
 models" of Chapter 4 (fig:vae_failure_modes).
 
-    python3 supportFiles-repo/make_vae_failure_modes.py
+    python3 supportScripts-repo/make_vae_failure_modes.py
 
 Three models with the same 784-512-256 encoder body, a mirrored decoder, a
 Bernoulli output and a two-dimensional latent space are trained on the MNIST

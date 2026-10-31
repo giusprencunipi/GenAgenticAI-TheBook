@@ -10,7 +10,7 @@ Nothing is trained here and nothing is learned: the forward process has no
 parameters, so the whole figure is arithmetic on a real image. That is the
 point the figure exists to make, and it is why this script is short.
 
-    python3 supportFiles-repo/make_diffusion_figure.py
+    python3 supportScripts-repo/make_diffusion_figure.py
 
 Two schedules are drawn, one per row: the linear schedule of the original
 DDPM (T = 1000, beta from 1e-4 to 0.02) and the cosine schedule that replaced

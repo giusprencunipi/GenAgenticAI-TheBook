@@ -2,9 +2,10 @@
 """Regenerate the first-layer filter montage used by the appendix on convolutions.
 
     conv1_filters.png           the 44 luminance-dominated filters, greyscale
-    conv1_filters_colour.png    all 64, in colour, for the companion repository
+    supportFigures-repo/conv1_filters_colour.png
+                                all 64, in colour, for the companion repository
 
-    python3 supportFiles-repo/make_filter_figure.py
+    python3 supportScripts-repo/make_filter_figure.py
 
 The appendix says that the filters a convolutional network learns in its first
 layer are oriented edges, gratings and colour blobs, and that nobody put them
@@ -47,7 +48,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 GREY = "conv1_filters.png"
-COLOUR = "conv1_filters_colour.png"
+COLOUR = "supportFigures-repo/conv1_filters_colour.png"   # published, not printed
 DPI = 300
 
 

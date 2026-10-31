@@ -3,7 +3,7 @@
 the section "Example: One Digit, Start to Finish" (fig:mnist_three) and that
 Chapter 4 picks up again.
 
-    python3 supportFiles-repo/make_mnist_three.py
+    python3 supportScripts-repo/make_mnist_three.py
 
 The digit is the first 3 of the MNIST training set, taken as it is: no
 smoothing, no resampling. Each of the 28x28 pixels is drawn as a square block

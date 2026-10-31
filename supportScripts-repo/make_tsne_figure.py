@@ -5,8 +5,8 @@
                         seeds, so that what survives the projection and what
                         does not can be seen side by side
 
-    python3 supportFiles-repo/make_tsne_figure.py      (run from the repo root)
-    python3 supportFiles-repo/make_tsne_figure.py --lang it --out it/tsne_seeds.png
+    python3 supportScripts-repo/make_tsne_figure.py      (run from the repo root)
+    python3 supportScripts-repo/make_tsne_figure.py --lang it --out it/tsne_seeds.png
 
 The second form writes the Italian edition's copy: same runs, only the legend
 translated. The word labels are the data (GloVe is English) and "seed" is

@@ -4,7 +4,7 @@ sampling from the standard Gaussian, the one titled
 
     Five draws, and what they can and cannot tell
 
-    python3 supportFiles-repo/make_gaussian_sample_stats.py
+    python3 supportScripts-repo/make_gaussian_sample_stats.py
 
 The example works five draws from N(0, I) in four dimensions by hand, and then
 sets the resulting estimates of the mean, the variance and a covariance beside

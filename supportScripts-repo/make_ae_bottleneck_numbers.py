@@ -3,7 +3,7 @@
 subsection "Choosing the Bottleneck Dimension L": the reconstruction error of
 the chapter's autoencoder on MNIST for several widths of the bottleneck.
 
-    python3 supportFiles-repo/make_ae_bottleneck_numbers.py
+    python3 supportScripts-repo/make_ae_bottleneck_numbers.py
 
 The book's table has one row per value of L. For each row this script trains
 the chapter's autoencoder, 784-512-256-L-256-512-784 with ReLU hidden layers,
