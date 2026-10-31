@@ -6,17 +6,29 @@ Questo repository accompagna il libro. Il libro è un unico argomento, da
 leggere di seguito; quello che una pagina stampata non può portare con sé sta
 qui.
 
-**Il repository è in preparazione.** Per ora contiene il codice e le figure di
-supporto; il resto arriverà con l'uscita del libro.
+**Il repository è in preparazione.** Per ora contiene il volume di
+accompagnamento, il codice e le figure di supporto; il resto arriverà con
+l'uscita del libro.
 
-## Che cosa ci sarà
+Il **volume di accompagnamento** è
+[`companion-volume.pdf`](companion-volume.pdf), in inglese: contiene gli
+esercizi con le soluzioni, i conti per esteso e un capitolo datato sulla
+pratica corrente. Viene aggiornato quando serve; la copia qui è sempre quella
+corrente.
 
-- **Esercizi e soluzioni** — per i capitoli tecnici del libro,
+## Che cosa contiene
+
+- **Esercizi e soluzioni** — nel volume di accompagnamento, per i capitoli tecnici del libro,
   dagli autoencoder all'AI agentica. Non sono stampati nel libro di proposito:
   l'argomento del libro non ha bisogno di loro. Il libro è completo senza che se
   ne sia tentato uno solo; sono uno strumento per chi lo voglia.
 
-- **I conti per esteso** — l'aritmetica di cui il libro riporta il risultato
+- **La pratica corrente** — un capitolo del volume di accompagnamento, datato,
+  con i numeri e le scelte che il libro non stampa perché invecchierebbero:
+  quanto sono grandi i modelli, come si adattano e si servono, quanto spende
+  un modello di ragionamento.
+
+- **I conti per esteso** — nel volume di accompagnamento, l'aritmetica di cui il libro riporta il risultato
   invece di distenderla su tre pagine: per esempio la scansione esaustiva
   dietro l'affermazione su quanto lontano decada la somiglianza posizionale.
 

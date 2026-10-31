@@ -5,17 +5,28 @@
 This repository is the companion to the book. The book is a single argument,
 read straight through; what a printed page cannot carry lives here.
 
-**The repository is being prepared.** For now it holds the code and the
-supporting figures; the rest will follow when the book is published.
+**The repository is being prepared.** For now it holds the companion volume,
+the code and the supporting figures; the rest will follow when the book is
+published.
 
-## What will be here
+The **companion volume** is [`companion-volume.pdf`](companion-volume.pdf),
+in English: it holds the exercises with their solutions, computations in full
+and a dated chapter on current practice. It is updated when needed; the copy
+here is always the current one.
 
-- **Exercises and solutions** — for the book's technical chapters,
+## What is here
+
+- **Exercises and solutions** — in the companion volume, for the book's technical chapters,
   from Autoencoders to Agentic AI. They are not printed in the book on purpose:
   nothing in its argument depends on them. The book is complete without a single
   exercise attempted; these are an instrument for whoever wants one.
 
-- **Computations in full** — the arithmetic the book states a result for rather
+- **Current practice** — a dated chapter of the companion volume, with the
+  numbers and choices the book does not print because they would date: how
+  big models are, how they are adapted and served, what a reasoning model
+  spends.
+
+- **Computations in full** — in the companion volume, the arithmetic the book states a result for rather
   than spreading over three pages, such as the exhaustive scan behind the claim
   about how far positional similarity decays.
 
