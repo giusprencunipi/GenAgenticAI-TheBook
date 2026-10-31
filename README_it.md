@@ -11,7 +11,7 @@ supporto; il resto arriverà con l'uscita del libro.
 
 ## Che cosa ci sarà
 
-- **Esercizi e soluzioni** — dieci per ciascuno dei capitoli tecnici del libro,
+- **Esercizi e soluzioni** — per i capitoli tecnici del libro,
   dagli autoencoder all'AI agentica. Non sono stampati nel libro di proposito:
   l'argomento del libro non ha bisogno di loro. Il libro è completo senza che se
   ne sia tentato uno solo; sono uno strumento per chi lo voglia.

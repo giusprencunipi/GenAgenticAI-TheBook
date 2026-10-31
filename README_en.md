@@ -10,7 +10,7 @@ supporting figures; the rest will follow when the book is published.
 
 ## What will be here
 
-- **Exercises and solutions** — ten for each of the book's technical chapters,
+- **Exercises and solutions** — for the book's technical chapters,
   from Autoencoders to Agentic AI. They are not printed in the book on purpose:
   nothing in its argument depends on them. The book is complete without a single
   exercise attempted; these are an instrument for whoever wants one.
