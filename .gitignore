@@ -21,3 +21,10 @@
 *.fdb_latexmk
 
 .DS_Store
+
+# Caches and outputs of the scripts in supportFiles-repo/: the MNIST download,
+# the GloVe vectors, and Python bytecode. All regenerable, none belongs here.
+__pycache__/
+.mnist-cache/
+glove.6B*.txt
+glove.6B*.zip
